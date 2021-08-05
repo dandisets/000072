@@ -19,7 +19,8 @@ id: DANDI:000072/draft
 identifier: DANDI:000072
 keywords: []
 license: []
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000072/versions/draft/assets/
 name: neural data
 protocol: []
 relatedResource: []
