@@ -12,7 +12,7 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: neural data (2021). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000072/draft
+citation: neural data (2022). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000072/draft
 contributor: []
 dateCreated: '2021-05-11T01:30:51.760087+00:00'
 description: Monkey performs a 3D reach-to-grasp task
